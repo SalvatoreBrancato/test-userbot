@@ -1,0 +1,16 @@
+{
+  "name": "test-userbot",
+  "version": "1.0.0",
+  "description": "TEST-USERBOT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "Salvatore Brancato",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "nodemon": "^3.1.2"
+  }
+}
